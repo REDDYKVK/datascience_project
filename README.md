@@ -1,2 +1,2 @@
 # data-science
-practice
+A Machine learning project on predicting SpaceX launch
